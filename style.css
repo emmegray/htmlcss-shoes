@@ -33,6 +33,7 @@ header a {
     color: black;
     float: left;
     text-decoration: none;
+    font-weight: bolder;
     height: 50px;
     width: 50px;
     background-color: white;
@@ -52,7 +53,7 @@ header a:active {
 }
 
 .box img {
-    width: 80%;
+    width: 70%;
 }
 
 .box h3 {
